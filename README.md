@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dominic-St
-- 👀 I’m interested in GameDev
+- 👀 I’m interested in GameDev; WebDev
 - 🌱 I’m currently learning many things... UnrealEngine; C++; Linux; Git; C#; ....
 - 💞️ I’m looking to collaborate on GameDev; WebDev; but im still learning in my spare time :)
 - 📫 How to reach me per e-mail: headshot.gamedev@gmail.com
